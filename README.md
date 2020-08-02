@@ -5,5 +5,7 @@ Documentation -> https://github.com/Toxblh/MTMR
 
 MTMR preferences stored under ~/Library/Application\ Support/MTMR/items.json
 
+
+## Screenshot
 ![touchbar](https://github.com/martinez-jm/touchbarSetup/blob/master/touchbar-screenshot.png?raw=true "Touchbar")
 
